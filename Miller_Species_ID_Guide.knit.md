@@ -32,13 +32,19 @@ output:
 
 ## Figures
 
-```{r Calliostoma_drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Calliostoma ligatum positioned in ventral (A) lateral (B) views with important identifying characteristics labelled.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Calliostoma_drawing.jpg"))
-```
+\begin{figure}
 
-```{r Calliostoma_size, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Calliostoma ligatum shells (containing Hermit crabs) collected at Scott's Bay.", echo=FALSE}
-knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
-```
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/Calliostoma_drawing} \hfill{}
+
+\caption{Calliostoma ligatum positioned in ventral (A) lateral (B) views with important identifying characteristics labelled.}\label{fig:Calliostoma_drawing}
+\end{figure}
+
+\begin{figure}
+
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/Calliostoma_size} \hfill{}
+
+\caption{Calliostoma ligatum shells (containing Hermit crabs) collected at Scott's Bay.}\label{fig:Calliostoma_size}
+\end{figure}
 
 \newpage 
 
@@ -62,13 +68,19 @@ knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
 
 ## Figures
 
-```{r Nucella_lamellosa, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "A drawn diagram of *Nucella lamellosa* (L.Wall). These drawings show the morphological variety in shell colours, textures, and banding. 1) shows underside of the snail, highlighting the oval aperture. 2) shows an upright view of the snail, showing frills, five distinct whorls, and brown colouring. 3) shows a banding colour pattern and less frilly surface.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "nucella_lamellosa.jpg"))
-```
+\begin{figure}
 
-```{r SnailonRock, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Photos showing two varieties of *N. lamellosa* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021 (L.Wall). This highlights the variation in snail color and size, with smooth shell morphology suggesting plastic suitability to their wave-exposed habitat. ", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "snailonrock.jpg"))
-```
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/nucella_lamellosa} \hfill{}
+
+\caption{A drawn diagram of *Nucella lamellosa* (L.Wall). These drawings show the morphological variety in shell colours, textures, and banding. 1) shows underside of the snail, highlighting the oval aperture. 2) shows an upright view of the snail, showing frills, five distinct whorls, and brown colouring. 3) shows a banding colour pattern and less frilly surface.}\label{fig:Nucella_lamellosa}
+\end{figure}
+
+\begin{figure}
+
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/snailonrock} \hfill{}
+
+\caption{Photos showing two varieties of *N. lamellosa* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021 (L.Wall). This highlights the variation in snail color and size, with smooth shell morphology suggesting plastic suitability to their wave-exposed habitat. }\label{fig:SnailonRock}
+\end{figure}
 
 \newpage
 
@@ -92,13 +104,19 @@ The black turban snail is most commonly found along exposed or semi-protected ro
 
 ## Figures
 
-```{r Black_Turban_Drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Black Turban Drawings.jpg"))
-```
+\begin{figure}
 
-```{r Black_Turban_Differences, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Black Turban Differences.jpg"))
-```
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/Black Turban Drawings} \hfill{}
+
+\caption{A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.}\label{fig:Black_Turban_Drawing}
+\end{figure}
+
+\begin{figure}
+
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/Black Turban Differences} \hfill{}
+
+\caption{Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.}\label{fig:Black_Turban_Differences}
+\end{figure}
 
 \newpage
 
@@ -120,46 +138,43 @@ This whelk is distinguished by its alternating lines of thick and thin bands on 
 
 ## Figures
 
-```{r Dogwinkle_drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
-```
+\begin{figure}
 
-```{r Dogwinkle_picture, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
-```
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/Northern-Dogwinkle-Drawing} \hfill{}
+
+\caption{Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. }\label{fig:Dogwinkle_drawing}
+\end{figure}
+
+\begin{figure}
+
+\includegraphics[width=0.5\linewidth,height=0.3\textheight]{/Users/mer/Github/species-id-guide-meredithyvr/images/Northern Striped Dogwinkle Picture} \hfill{}
+
+\caption{Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.}\label{fig:Dogwinkle_picture}
+\end{figure}
 
 \newpage
 
 # Supplemental Information
 
-```{r, message = FALSE, echo = FALSE}
-library(tidyverse)
-library(here)
 
-snail_table = read_csv(here("./data/snail_size.csv"))
+Table: Shell morphometric measurements of four intertidal snails
 
-snail_table_clean = snail_table %>%
-  rename("Height (mm)" = height_mm, "Length (mm)" = length_mm) 
-
-knitr::kable(snail_table_clean, caption = "Shell morphometric measurements of four intertidal snails")
-```
+|Species             | Length (mm)| Height (mm)|
+|:-------------------|-----------:|-----------:|
+|Nucella_ostrina     |       20.00|       10.00|
+|Nucella_lamellosa   |       16.00|        6.30|
+|Nucella_lamellosa   |       19.00|        9.00|
+|Calliostoma_ligatum |        5.00|        4.50|
+|Calliostoma_ligatum |       10.00|       12.00|
+|Tegula_funebralis   |       13.10|       16.80|
+|Tegula_funebralis   |       17.15|       19.25|
+|Tegula_funebralis   |       18.65|       19.45|
 
 ## Figures
 
-```{r, echo = FALSE, fig.cap= "Snail shell length and height for four intertidal snails. Snails were collected from Scott's Bay, and measured in lab using calipers", message = FALSE, out.width = "80%", out.height = "80%"}
-
-snail_plot = ggplot(data = snail_table) +
-  geom_point(aes(x = length_mm, y = height_mm, fill = Species, shape = Species), 
-             size = 3, color = "black") +
-  scale_y_continuous(limits = c(0,20))+
-  scale_x_continuous(limits =c(0,20))+
-  scale_shape_manual(values = c(21,22,23,24))+
-  scale_fill_manual(values = c("blue", "red", "green", "yellow"))+
-  theme_bw() +
-  labs(x = "Shell Length (mm)", y = "Shell Height (mm)")
-
-snail_plot
-```
+\begin{figure}
+\includegraphics[width=0.8\linewidth,height=0.8\textheight]{Miller_Species_ID_Guide_files/figure-latex/unnamed-chunk-2-1} \caption{Snail shell length and height for four intertidal snails. Snails were collected from Scott's Bay, and measured in lab using calipers}\label{fig:unnamed-chunk-2}
+\end{figure}
 
 \newpage
 
