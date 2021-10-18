@@ -163,6 +163,13 @@ snail_plot
 
 \newpage
 
+```{r Table, fig.align = 'left', out.width = "100%", out.height = "100%", fig.cap = "Table 2. Summary of characteristics for four intertidal snails.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Summary Table.jpg"))
+```
+
+\newpage
+
+
 # Bibliography
 
 Bering, N., Hext, T., & Parker, E. (2017). Nucella lamellosa. In: Oregon Estuarine Invertebrates: Rudys' Illustrated Guide to Common Species, 3rd ed. University of Oregon Libraries and Oregon Institute of Marine Biology, Charleston, OR. https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/12913/N_lamellosa_2017_final.pdf?sequence=3
