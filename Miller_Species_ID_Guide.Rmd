@@ -30,11 +30,11 @@ output:
 
 ## Figures
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 1. Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
+```{r dogwinkle-drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 1. Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
 ```
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 2. Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
+```{r dogwinkle-picture, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 2. Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
 ```
 
@@ -60,11 +60,11 @@ knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture
 
 ## Figures
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 3. A drawn diagram of *Nucella lamellosa* (L.Wall). These drawings show the morphological variety in shell colours, textures, and banding. 1) shows underside of the snail, highlighting the oval aperture. 2) shows an upright view of the snail, showing frills, five distinct whorls, and brown colouring. 3) shows a banding colour pattern and less frilly surface.", fig.cap.align = 'left', echo=FALSE}
+```{r nucella lamellosa painting, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 3. A drawn diagram of *Nucella lamellosa* (L.Wall). These drawings show the morphological variety in shell colours, textures, and banding. 1) shows underside of the snail, highlighting the oval aperture. 2) shows an upright view of the snail, showing frills, five distinct whorls, and brown colouring. 3) shows a banding colour pattern and less frilly surface.", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "nucella_lamellosa.jpg"))
 ```
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 4. Photos showing two varieties of *N. lamellosa* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021 (L.Wall). This highlights the variation in snail color and size, with smooth shell morphology suggesting plastic suitability to their wave-exposed habitat. ", fig.cap.align = 'left', echo=FALSE}
+```{r nucella lamellosa picture, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 4. Photos showing two varieties of *N. lamellosa* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021 (L.Wall). This highlights the variation in snail color and size, with smooth shell morphology suggesting plastic suitability to their wave-exposed habitat. ", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "snailonrock.jpg"))
 ```
 
@@ -90,11 +90,11 @@ The black turban snail is most commonly found along exposed or semi-protected ro
 
 ## Figures
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 6. A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.", fig.cap.align = 'left', echo=FALSE}
+```{r black turban drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 6. A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "Black Turban Drawings.jpg"))
 ```
 
-```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 7. Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.", fig.cap.align = 'left', echo=FALSE}
+```{r black turban image, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 7. Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "Black Turban Differences.jpg"))
 ```
 
@@ -193,4 +193,5 @@ Meschkat, C., Fretwell, K., & Starzomski, B. (2013). *Blue topsnail, Western rid
 Proudfoot, B, &  Fretwell, K. (2015). *Frilled Dogwinkle, Wrinkled Dogwinkle • Nucella Lamellosa. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/frilled-dogwinkle-bull-nucella-lamellosa.html. 
 
 Tuskes, P. M. (2019). Calliostomatidae of the northeast Pacific. Zoosymposia, 13, 83-96. http://dx.doi.org/10.11646/zoosymposia.13.1.9 
+
 
