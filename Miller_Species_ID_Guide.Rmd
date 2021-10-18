@@ -130,6 +130,34 @@ knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
 
 # Supplemental Information
 
+```{r, message = FALSE, echo = FALSE}
+library(tidyverse)
+library(here)
+
+snail_table = read_csv(here("./data/snail_size.csv"))
+
+snail_table_clean = snail_table %>%
+  rename("Height (mm)" = height_mm, "Length (mm)" = length_mm) 
+
+knitr::kable(snail_table_clean, caption = "Shell morphometric measurements of four intertidal snails")
+```
+
+## Figures
+
+```{r, echo = FALSE, fig.cap= "Snail shell length and height for four intertidal snails. Snails were collected from Scott's Bay, and measured in lab using calipers", message = FALSE, out.width = "60%", out.height = "60%"}
+
+snail_plot = ggplot(data = snail_table) +
+  geom_point(aes(x = length_mm, y = height_mm, fill = Species, shape = Species), 
+             size = 3, 
+             color = "black") +
+  scale_shape_manual(values = c(21,22,23,24))+
+  scale_fill_manual(values = c("blue", "red", "green", "yellow"))+
+  theme_bw() +
+  labs(x = "Shell Length (mm)", y = "Shell Height (mm)")
+
+snail_plot
+```
+
 \newpage
 
 # Bibliography
