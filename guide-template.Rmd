@@ -46,27 +46,20 @@ output:
 
 \newpage
 
-# Supplemental Information
+# *Tegula funebralis* (Black Tegula/Black Turban Snail)
 
-```{r, message = FALSE, echo = FALSE}
-library(tidyverse)
-library(here)
+## Description
 
-whale_table = read_csv(here("./data/whale-table.csv"))
-knitr::kable(whale_table, caption = "Whale morphometrics and other infomration.")
-```
+The *Tegula funebralis* has a thick and strong cone-shaped shell with a closed umbilicus (Fretwell & Starzomski, 2013). The rounded shell consists of four whorls, and it can grow up to three centimeters in diameter (Harbo, 2011). When wet, the shell appears non-shiny and black, but when dry can have a more dark purple or grey tone (Fretwell & Starzomski, 2013). The tip of the shell gets worn down over time, revealing a pearly white surface. The white interior contains a black-bodied snail, and the bottom of the foot appears tan. Males have a paler foot than females. Other similar species include the brown turban snail (*Chlorostoma brunnea*), and the dusky turban snail (*Tegula pulligo*). Both of these species have a lighter brown shell than the black turban snail, and C. brunnea is not found north of Oregon state. 
 
-## Figures
+The black turban snail is most commonly found along exposed or semi-protected rocky shorelines (Fretwell & Starzomski, 2013). It ranges along the west coast of North America from northern Vancouver Island down to central mexico. These snails can be found along the entire intertidal, but mainly live in the mid/low zones. Black turban snails live in large groups, usually aggregated under rocks. If shells are found isolated from other individuals, there is most likely a hermit crab or other invertebrate living in its shell. These grazing herbivores will eat almost any common algae  (Hiebert et al., 1979). They are also the prey to many intertidal invertebrates, including carnivorous snails, crabs, or sea stars. Humans are also a major predator of black turban snails, and there is evidence of human collection of these snails as far back as 12,000 years ago (Erlandson et al., 2015). These snails reach sexual maturity at about fourteen millimeters in diameter, and female snails will lay several hundred eggs approximately once per year (Hiebert et al., 1979). Juveniles live under small rocks or in the sand, then as young adults live in the upper intertidal for five to six years before migrating down to the mid/low intertidal. 
 
-```{r, echo = FALSE, fig.cap= "Whale length and whale weight compared by species", message = FALSE, out.width = "50%", out.height = "50%"}
+## Identification Questions
 
-whale_data = read_csv(here("./data/whale-size-data.csv"))
-whale_plot = ggplot(data = whale_data) +
-  geom_point(aes(x = length, y = weight, fill = species), 
-             colour = "black", 
-             size = 3, 
-             shape = 21) +
-  theme_bw() +
-  labs(x = "Whale Length", y = "Whale Weight")
-whale_plot
-```
+1) Is the snail surrounded by other similar individuals?
+
+2) Does the snail have four whorls/spirals on its shell?
+
+3) If the snail is wet, does it look black?
+
+\newpage
