@@ -58,6 +58,18 @@ knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture
 
 \newpage
 
+## Figures
+
+```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 3. A drawn diagram of *Nucella lamellosa* (L.Wall). These drawings show the morphological variety in shell colours, textures, and banding. 1) shows underside of the snail, highlighting the oval aperture. 2) shows an upright view of the snail, showing frills, five distinct whorls, and brown colouring. 3) shows a banding colour pattern and less frilly surface.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "nucella_lamellosa.jpg"))
+```
+
+```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 4. Photos showing two varieties of *N. lamellosa* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021 (L.Wall). This highlights the variation in snail color and size, with smooth shell morphology suggesting plastic suitability to their wave-exposed habitat. ", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "snailonrock.jpg"))
+```
+
+\newpage
+
 # *Tegula funebralis* (Black Tegula/Black Turban Snail)
 
 ## Description
