@@ -128,6 +128,10 @@ knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
 
 \newpage
 
+# Supplemental Information
+
+\newpage
+
 # Bibliography
 
 Bering, N., Hext, T., & Parker, E. (2017). Nucella lamellosa. In: Oregon Estuarine Invertebrates: Rudys' Illustrated Guide to Common Species, 3rd ed. University of Oregon Libraries and Oregon Institute of Marine Biology, Charleston, OR. https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/12913/N_lamellosa_2017_final.pdf?sequence=3
