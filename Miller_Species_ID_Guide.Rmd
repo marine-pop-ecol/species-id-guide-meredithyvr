@@ -126,4 +126,39 @@ knitr::include_graphics(here::here("images", "Calliostoma_drawing.jpg"))
 knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
 ```
 
+\newpage
+
+# Bibliography
+
+Bering, N., Hext, T., & Parker, E. (2017). Nucella lamellosa. In: Oregon Estuarine Invertebrates: Rudys' Illustrated Guide to Common Species, 3rd ed. University of Oregon Libraries and Oregon Institute of Marine Biology, Charleston, OR. https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/12913/N_lamellosa_2017_final.pdf?sequence=3
+
+Carefoot, T. (2021) Nucella lamellosa (Gmelin, 1791) Dog Whelk; Frilled Dogwinkle; Wrinkled Dog Wheld. E- Fauna BC: Electronic Atlas of the Wildlife of British Columbia. http://linnet.geog.ubc.ca/efauna/Atlas/Atlas.aspx?sciname=Nucella%20lamellosa&ilifeform=184 
+
+Crowles, D. (2004). Calliostoma ligatum. Invertebrates of the Salish Sea. Walla Walla University. https://inverts.wallawalla.edu/Mollusca/Gastropoda/Prosobranchia/Order_Archaegastropoda/Suborder_Trochina/Trochidae/Calliostoma_ligatum.html 
+
+E-Fauna BC Atlas Page. (2021). *E-Fauna BC. Nucella ostrina* (Gould, 1852) Dog Whelk; Dog Winkle. http://linnet.geog.ubc.ca/efauna/Atlas/Atlas.aspx?sciname=Nucella%20ostrina 
+
+Erlandson, J. M., Ainis, A. F., Braje, T. J., Jew, N. P., McVey, M., Rick, T. C., Vellanoweth, R. L., & Watts, J. (2015). 12,000 Years of Human Predation on Black Turban Snails (Chlorostoma funebralis) on Alta California's Northern Channel Islands. California Archaeology, 7(1), 59–91. https://doi.org/10.1179/1947461X15Z.00000000056
+
+Fretwell, K., & Starzomski, B. (2013). *Black turban snail, Tegula funebralis. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/black-turban-snail-bull-tegula-funebralis.html
+
+Harbo, R. M. (2011). Whelks to Whales: Coastal Marine Life of the Pacific Northwest (Revised Second ed.). Harbour Publishing. Turban Snails, Topsnails, 131.
+
+Harbo, R. M. (2011). Whelks to Whales: Coastal Marine Life of the Pacific Northwest (Revised Second ed.). Harbour Publishing, BC. Whelks, Dogwinkles: 144-145.
+
+Hiebert, T. C., Butler, B. A., & Shanks, A. L. (1979). Tegula funebralis in Oregon Estuarine Invertebrates: Rudys’ Illustrated Guide to 140 Common Species (No. 3). University of Oregon Libraries and Oregon Institute of Marine Biology. https://oimb.uoregon.edu/wp-content/uploads/2019/03/T_funebralis_2018.pdf
+
+Hoffman, D. L. (1980). Defensive Responses of Marine Gastropods (Prosobranchia, Trochidae) to Certain Predatory Seastars and the Dire Whelk, Searlesia dira (Reeve). Pacific Science, 34(3), 233-243.
+
+Holyoak, A.R. (1988). Spawning and larval development of the trochid gastropod Calliostoma ligatum. The Veliger, 30(4), 369-371
+
+Lloyd, M. J., & Gosselin, L. A. (2007). Role of Maternal Provisioning in Controlling Interpopulation Variation in Hatching Size in the Marine Snail Nucella ostrina. The Biological Bulletin, 213(3), 316–324. https://doi.org/10.2307/25066649
+
+Meschkat, C., Fretwell, K., & Brian Starzomski, B. (2014). *Northern striped dogwinkle • Nucella ostrina. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/northern-striped-dogwinkle-bull-nucella-ostrina.html
+
+Meschkat, C., Fretwell, K., & Starzomski, B. (2013). *Blue topsnail, Western ridged top shell. Calliostoma ligatum. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/blue-topsnail-bull-calliostoma-ligatum.html
+
+Proudfoot, B, &  Fretwell, K. (2015). *Frilled Dogwinkle, Wrinkled Dogwinkle • Nucella Lamellosa. Biodiversity of the Central Coast*. https://www.centralcoastbiodiversity.org/frilled-dogwinkle-bull-nucella-lamellosa.html. 
+
+Tuskes, P. M. (2019). Calliostomatidae of the northeast Pacific. Zoosymposia, 13, 83-96. http://dx.doi.org/10.11646/zoosymposia.13.1.9 
 
