@@ -114,3 +114,16 @@ This whelk is distinguished by its alternating lines of thick and thin bands on 
 
 3) Is the inside of the shell purple? 
 
+\newpage
+
+## Figures
+
+```{r Calliostoma_drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Calliostoma ligatum positioned in ventral (A) lateral (B) views with important identifying characteristics labelled.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Calliostoma_drawing.jpg"))
+```
+
+```{r Calliostoma_size, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Calliostoma ligatum shells (containing Hermit crabs) collected at Scott's Bay.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
+```
+
+
