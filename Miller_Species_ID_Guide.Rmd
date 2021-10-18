@@ -26,6 +26,18 @@ output:
 
 3) Are the spiral ridges on the snail's shell smoothed (not beaded)? 
 
+\newpage
+
+## Figures
+
+```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 1. Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
+```
+
+```{r speicies-id-guide-snails, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 2. Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
+```
+
 \newpage 
 
 # *Nucella lamellosa* (Frilled/Wrinkled Dogwinkle)
