@@ -1,7 +1,7 @@
 ---
 title: "Species ID Guide Template"
-author: "Cole Brookson"
-date: "10/13/2021"
+author: "Meredith Miller"
+date: "10/18/2021"
 output:
     pdf_document:
         includes:
