@@ -92,11 +92,11 @@ The black turban snail is most commonly found along exposed or semi-protected ro
 
 ## Figures
 
-```{r black turban drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 6. A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.", fig.cap.align = 'left', echo=FALSE}
+```{r Black_Turban_Drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "A drawn diagram of *Tegula funebralis*. The left drawing shows the underside of the snail, highlighting the aperture. The right drawing shows an upright view of the snail, including the location of the foot, highlighting the worn tip of the shell.", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "Black Turban Drawings.jpg"))
 ```
 
-```{r black turban image, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 7. Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.", fig.cap.align = 'left', echo=FALSE}
+```{r Black_Turban_Differences, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Photos showing three varieties of *Tegula funebralis* snails collected from Scotts Bay in Bamfield, BC on October 15th 2021. This highlights the similarities, such as the variations in tip morphology caused by wear and tear from rough intertidal conditions.", fig.cap.align = 'left', echo=FALSE}
 knitr::include_graphics(here::here("images", "Black Turban Differences.jpg"))
 ```
 
