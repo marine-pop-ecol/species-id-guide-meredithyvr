@@ -18,6 +18,7 @@ output:
 
 *Calliostoma ligatum* is present from central Alaska to southern California (Metschkat et al., 2013; Harbo 2011). It can be found intertidally but also at depths of up to 30 meters in eel grass and kelp beds, and rocky areas. Blue top snails are omnivorous, and although they mainly consume *Macrocystis* and other brown algae they also eat diatoms, ascidians, sponges, bryozoans, and detritus (Crowles 2004; Meschkat et al., 2013). Their main predators are sea stars and sunflower stars, but, interestingly, they do not demonstrate antipredator behaviour towards predatory snails (Hoffman, 1980). As broadcast spawners, male *Calliostoma ligatum* release sperm into the water column, while eggs are released by females sheathed in mucous strands that await fertilization (Holyvoak 1988). After fertilization, they undergo several changes over 12 days to become planktonic larvae, veligers, and then juvenile snails. They reach sexual maturity after 1 year. Blue top snails may be confused for Purple-ringed top snails (*Calliostoma annulatum*), but the beaded spirals on Purple-ringed top snails are easily differentiated from the smooth spirals of Blue top snails. Other snails in the area either do not have a similar top-like shell morphology, or lack the distinguishable spirals and orange foot of the top snails. 
 
+
 ## Identification Questions
 
 1) Is the shell of the snail top shaped (not cone shaped) with three convex whorls? 
@@ -26,16 +27,17 @@ output:
 
 3) Are the spiral ridges on the snail's shell smoothed (not beaded)? 
 
-\newpage
+
+\newpage 
 
 ## Figures
 
-```{r dogwinkle-drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 1. Showing *Nucella ostrina* distinctive features such as closed umbilicus, indistinct whorls, purple interior shell and operculum. ", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Northern-Dogwinkle-Drawing.JPG"))
+```{r Calliostoma_drawing, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Calliostoma ligatum positioned in ventral (A) lateral (B) views with important identifying characteristics labelled.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Calliostoma_drawing.jpg"))
 ```
 
-```{r dogwinkle-picture, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "Figure 2. Showing *Nucella ostrina* collected from Scotts Bay of Bamfield, BC, Canada in October of 2021.", fig.cap.align = 'left', echo=FALSE}
-knitr::include_graphics(here::here("images", "Northern Striped Dogwinkle Picture.jpg"))
+```{r Calliostoma_size, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "Calliostoma ligatum shells (containing Hermit crabs) collected at Scott's Bay.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Calliostoma_size.png"))
 ```
 
 \newpage 
